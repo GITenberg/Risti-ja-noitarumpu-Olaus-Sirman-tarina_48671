@@ -1,4 +1,8 @@
 _repo: Risti-ja-noitarumpu-Olaus-Sirman-tarina_48671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Järventaus, Arvi
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44905
     wikipedia: https://fi.wikipedia.org/wiki/Arvi_J%C3%A4rventaus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48671#Risti-ja-noitarumpu-Olaus-Sirman-tarina
 gutenberg_issued: '2015-04-09'
 gutenberg_type: Text
 identifiers:
